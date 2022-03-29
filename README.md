@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maguettebfall
-- 👀 I’m interested in learning more about data science and coding
-- 🌱 I’m currently learning python
+👋 Hi, I’m @maguettebfall
+👀 I’m interested in learning more about data science and coding
+🌱 I’m currently learning python
 
 <!---
 maguettebfall/maguettebfall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
